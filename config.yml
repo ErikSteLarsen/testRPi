@@ -17,13 +17,13 @@
 # Then use the File -> Share... command in the spreadsheet to share it with read
 # and write acess to the email address above.  If you don't do this step then the
 # updates to the sheet will fail!
-gdocs_oauth_json: 'Energy Meter-e472686723c8.json'
+gdocs_oauth_json: 'test123-337418-c3b90c4f81aa.json'
 
 # Google Docs spreadsheet name.
-gdocs_spreadsheet_name: 'Heat pump energy meter'
+gdocs_spreadsheet_name: 'test '
 
 # Google Docs spreadsheet worksheet name (the name that is on the tab at the bottom of the worksheet).
-gdocs_spreadsheet_worksheet: 'Sheet1'
+gdocs_spreadsheet_worksheet: 'Ark 1'
 
 # How long to wait (in seconds) between measurements.
 frequency_seconds: 30
